@@ -1,4 +1,4 @@
-# Homogeneous-Multi-unit-Auction-over-a-Social-Network
+# Homogeneous Multi-unit Auction over a Social Network
 This repo contains the implementation of the **VCG** [[1]](#1), **GIDM** [[2]](#2), **MUDAN** [[3]](#3), and **MUDAR** [[3]](#3) auctions for selling multiple homogeneous items on a social network, with each agent only requiring a single item. 
 
 Each mechanism is implemented through a function `auction(k, seller_net, reports, bids)`, where:
